@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="roll_button">Roll</string>
+    <string name="Skip_button">Skip</string>
+</resources>
